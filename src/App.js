@@ -76,7 +76,7 @@ function App() {
             </>
           )}
 
-          <button onClick={userVer}>Suer</button>
+    
         </div>
       </AuthProvider>
     </ChatContextProvider>
